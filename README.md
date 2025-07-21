@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Shyam from Ahmedabad<br><br>- 🔭 I’m working as fresher<br>- 📚 I'm currently learning React Native</p>
+<p align="left">I'm Shyam from Ahmedabad<br><br>- 🔭 I’m working as fresher<br>- 📚 I'm currently learning Full stack</p>
 
 ###
 
